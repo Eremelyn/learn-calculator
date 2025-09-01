@@ -8,7 +8,7 @@ int main(){
     char num2;
     // Asking for the operand //
 
-    printf("Enter an Operand (+, -, *, /)");
+    printf("Enter an Operand (+, -, *, /) ");
 
     // Reading results //
 
@@ -16,7 +16,7 @@ int main(){
 
     // Asking the values //
 
-    printf("What numbers you mathin'?");
+    printf("What numbers you mathin'? ");
     
     // Reading Numbers //
     scanf("%lf %lf",&num1,&num2);
